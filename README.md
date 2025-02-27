@@ -1,5 +1,2 @@
-# hippy-next-js
-
-Sample Next.js boilerplate app with Hippy support.
-
-Date: 2025-02-27
+IyBoaXBweS1uZXh0LWpzCgpTYW1wbGUgTmV4dC5qcyBib2lsZXJwbGF0ZSBh
+cHAgd2l0aCBIaXBweSBzdXBwb3J0LgoKRGF0ZTogMjAyNS0wMi0yNyAKRGF0ZSB1cGRhdGVkOiAyMDI1LTAyLTI3IDA0OjI5OjIyIFVUQw==
